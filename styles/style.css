@@ -214,17 +214,14 @@
 }
 
 .card_type_film {
-  display: flex;
   background-image: url(../images/card-lot-01.jpg);
 }
 
 .card_type_book {
-  display: flex;
   background-image: url(../images/card-lot-02.jpg);
 }
 
 .card_type_picture {
-  display: flex;
   background-image: url(../images/card-lot-03.jpg);
 }
 
@@ -319,12 +316,6 @@
   padding-bottom: 88px;
   padding-left: 26px;
   font-size: 18px;
-}
-
-.footer__address__item-link {
-  letter-spacing: 0.18px;
-  text-decoration-line: underline;
-  text-underline-offset: 4px;
 }
 
 .footer__menu {
